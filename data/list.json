@@ -1,0 +1,5 @@
+[
+    {"text":"MIT is a school",  "url":"https://web.mit.edu", "prettyLink": "MIT link"},
+    {"text":"PBS is a network", "url":"https://www.pbs.org", "prettyLink": "PBS link"},
+    {"text":"NPR is a radio",   "url":"https://www.npr.org", "prettyLink": "NPR link"}
+]

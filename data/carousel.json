@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Beautiful Patterns",
+        "src": "assets/img/student1.jpg",
+        "description": "Computational Thinking for women by women. This program is unique because it’s women teaching other women. We want women to see people like themselves studying Computer Science, so that they can imagine themselves doing it, too."
+    },
+    {
+        "title": "Create a course",
+        "src": "assets/img/teacher2.jpg",
+        "description": "Are you interested in topic we do not have? Would like to help us create a new course?  We are always looking for new course creators",
+        "links": [
+            {"name":"MIT", "url":"https://web.mit.edu"},
+            {"name":"PBS", "url":"https://www.pbs.org"},
+            {"name":"NPR", "url":"https://www.npr.org"}
+        ]
+    },
+    {
+        "title": "Take a course",
+        "src": "assets/img/student2.jpg",
+        "description": "Are you interested in learning to code? Are you interested in learning how to think computationally? Take one of our courses!"
+    },
+    {
+        "title": "Outreach",
+        "src": "assets/img/outreach2.jpg",
+        "description": "We teach Computational Thinking for women by women. Are you interested in helping us get the word out? Join our team!"
+    }
+]

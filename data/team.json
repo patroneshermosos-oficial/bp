@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Founder",
+        "name": "Abel Sanchez",
+        "src": "assets/img/teacher2.jpg",
+        "note": "MIT"
+    },
+    {
+        "title": "CFO",
+        "name": "Diana Prince",
+        "src": "assets/img/student2.jpg",
+        "note": "MIT"
+    },
+    {
+        "title": "CMO",
+        "name": "Kara Danvers",
+        "src": "assets/img/outreach2.jpg",
+        "note": "MIT"
+    },
+    {
+        "title": "Founder",
+        "name": "Abel Sanchez",
+        "src": "assets/img/teacher2.jpg",
+        "note": "MIT"
+    },
+    {
+        "title": "CFO",
+        "name": "Diana Prince",
+        "src": "assets/img/student2.jpg",
+        "note": "MIT"
+    },
+    {
+        "title": "CMO",
+        "name": "Kara Danvers",
+        "src": "assets/img/outreach2.jpg",
+        "note": "MIT"
+    }    
+]

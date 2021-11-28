@@ -1,0 +1,76 @@
+[
+  {
+    "name":   "Features",
+    "links":
+    [
+      {
+        "name":      "Cool stuff",
+        "url":        "#/cool"
+      },
+      {
+        "name":      "Random feature",
+        "url":        "#/random"
+      },
+      {
+        "name":      "Team features",
+        "url":        "#/team"
+      },
+      {
+        "name":      "Stuff",
+        "url":        "#/stuff"
+      },
+      {
+        "name":      "Another",
+        "url":        "#/another"
+      },
+      {
+        "name":      "Last time",
+        "url":        "#/last"
+      }                          
+    ]
+  },
+  {
+    "name":   "Resources",
+    "links":
+    [
+      {
+        "name":      "Resources",
+        "url":        "#/resources"
+      },
+      {
+        "name":      "Name",
+        "url":        "#/name"
+      },
+      {
+        "name":      "Another",
+        "url":        "#/another"
+      },
+      {
+        "name":      "Final",
+        "url":        "#/final"
+      }                         
+    ]
+  },
+  {
+    "name":   "About",
+    "links":
+    [
+      {
+        "name":      "Team",
+        "url":        "#/team"
+      },
+      {
+        "name":      "Locations",
+        "url":        "#/locations"
+      },
+      {
+        "name":      "Privacy",
+        "url":        "#/privacy"
+      },
+      {
+        "name":      "Terms",
+        "url":        "#/terms"
+      }                         
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Create a course",
+        "src": "assets/img/teacher2.jpg",
+        "description": "Are you interested in topic we do not have? Would like to help us create a new course?  We are always looking for new course creators"
+    },
+    {
+        "title": "Take a course",
+        "src": "assets/img/student2.jpg",
+        "description": "Are you interested in learning to code? Are you interested in learning how to think computationally? Take one of our courses!"
+    },
+    {
+        "title": "Outreach",
+        "src": "assets/img/outreach2.jpg",
+        "description": "We teach Computational Thinking for women by women. Are you interested in helping us get the word out? Join our team!"
+    }
+]

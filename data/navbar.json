@@ -1,0 +1,51 @@
+{
+    "site": "Beautiful Patterns",
+    "links": [
+      {
+        "title":      "Home",
+        "isDropDown": false,
+        "url":        "#/home"
+      },
+      {
+        "title":      "Team",
+        "isDropDown": false,
+        "url":        "#/team"
+      },   
+      {
+        "title":      "Features",
+        "isDropDown": true,
+        "links": [
+          {
+            "title":      "Cards",
+            "url":        "#/cards"
+          },
+          {
+            "title":      "Login",
+            "url":        "#/login"
+          },
+          {
+            "title":      "Partial",
+            "url":        "#/partial"
+          }  
+        ]
+      }, 
+      {
+        "title":      "Gear",
+        "isDropDown": true,
+        "links": [
+          {
+            "title":      "Album",
+            "url":        "#/album"
+          },
+          {
+            "title":      "Marketing",
+            "url":        "#/marketing"
+          },
+          {
+            "title":      "Tables",
+            "url":        "#/tables"
+          }  
+        ]
+      }   
+    ]
+  }
