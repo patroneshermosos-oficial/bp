@@ -1,0 +1,32 @@
+<br>
+<h1>Partial</h1>
+
+<ul>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>    
+</ul>
+
+<div id="inside"></div>
+
+<script>
+
+var cities = [
+  'boston',
+  'nyc',
+  'DC'
+];
+
+var html = ''
+
+cities.forEach(city =>{
+  html += `
+    <div style="background: green">
+      <h3>${city}</h3>
+    </div>
+  `; 
+})
+
+document.getElementById('inside').innerHTML = html;
+
+</script>
